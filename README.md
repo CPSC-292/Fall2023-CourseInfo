@@ -2,7 +2,7 @@
 ## Chapman University, Fall 2023
 ## Instructors: Lindsay Waldrop, PhD; Katherine Hansen, MS
 
-This is the course information page for CPSC 292 Intro to Exploratory Data Analysis. It will contain all materials: assignments, lecture notes, project info and handouts, the syllabus and course schedule. These will be updated regularly. 
+This is the course information page for CPSC 292 Intro to Exploratory Data Analysis. It will contain all materials except graded material: assignments, lecture notes, project info and handouts, the syllabus and course schedule. These will be updated regularly. 
 
 ## About CPSC 292 
 
@@ -15,12 +15,14 @@ The Course Learning Objectives are:
 
 ## Before Class Starts
 
-It will be useful to having R and RStudio installed and ready to go before class starts on Aug. 28th, 2023. Instructions are below! 
+It will be useful to having R and RStudio installed and ready to go before class starts on Aug. 28th, 2023. This is not required, and if you have questions, you're welcome to wait until class starts to install.)
+
+Instructions are below! 
 
 ### Instructions for Installing Software
 
  - Install R: 
-    1. Go to: https://cloud.r-project.org/ and select your operating system. IMPORTANT: If you have a Mac, you will need to select your processing chip architecture. See NOTE below.)
+    1. Go to: https://cloud.r-project.org/ and select your operating system. (IMPORTANT: If you have a Mac, you will need to select your processing chip architecture. See NOTE below.)
     2. Click on the latest release of R (it should be something like "R-4.3.1.pkg (notarized and signed)". 
     3. Open the downloaded pkg file and follow instructions to install. Please install R in the suggested, default location. 
 
