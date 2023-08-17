@@ -15,6 +15,8 @@ The Course Learning Objectives are:
 
 ## Before Class Starts
 
+Please join Github with your __Chapman email address__! Make a request to join the CPSC-292 organization or send your instructor you email so they can send you an invite. Be sure to check your junk mail folder if you don't see the invite. 
+
 It will be useful to having R and RStudio installed and ready to go before class starts on Aug. 28th, 2023. This is not required, and if you have questions, you're welcome to wait until class starts to install.
 
 Instructions are below! 
