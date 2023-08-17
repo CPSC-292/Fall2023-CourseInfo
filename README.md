@@ -15,7 +15,7 @@ The Course Learning Objectives are:
 
 ## Before Class Starts
 
-It will be useful to having R and RStudio installed and ready to go before class starts on Aug. 28th, 2023. This is not required, and if you have questions, you're welcome to wait until class starts to install.)
+It will be useful to having R and RStudio installed and ready to go before class starts on Aug. 28th, 2023. This is not required, and if you have questions, you're welcome to wait until class starts to install.
 
 Instructions are below! 
 
