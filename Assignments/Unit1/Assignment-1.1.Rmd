@@ -1,0 +1,47 @@
+---
+title: "Assignment 1.1"
+subtitle: "CPSC 292 Section ## (Instructor last name)"
+author: "Your Name"
+date: "00/00/2023"
+output: html_notebook
+---
+
+## Assignment 1.1 -- How Computers Work
+
+```{r setup, include=TRUE}
+# Loading required libraries
+# Do not alter this section of code!
+
+```
+
+Write a brief answer explaining the following questions:
+
+### Question 1
+
+*What are the four main things every computer does?*
+
+Your answer here.
+
+### Question 2
+
+*How is information represented in a computer’s memory? For example, how does a computer represent the number 34 in its physical storage?*
+
+Your answer here.
+
+### Question 3
+
+*Describe the function of circuits and logic used by computers.*
+
+Your answer here.
+
+### Question 4
+
+*What type of code does the translating between code you write and the circuits of a CPU?*
+
+Your answer here.
+
+### Question 5
+
+*What is the difference between memory and storage?*
+
+Your answer here.

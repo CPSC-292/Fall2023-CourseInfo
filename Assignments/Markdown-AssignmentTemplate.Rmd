@@ -1,0 +1,40 @@
+---
+title: "Assignment name"
+subtitle: "CPSC 292 Section -- (Instructor last name)"
+author: "Your Name"
+date: "00/00/2023"
+output: html_notebook
+---
+
+## Assignment name
+
+```{r setup, include=TRUE}
+# Loading required libraries
+# Do not alter this section of code!
+library(viridis)
+```
+
+Be sure to write any regular text in the white space (not the gray code blocks).
+
+### Question 1
+
+*Text of question 1 *
+
+Answer any questions that require text in the white space. And it's also useful to explain what your code is doing up here. Include any R code in chunks like below. (Note: this is not correct for this)
+```{r, include=TRUE}
+data("CO2")
+plot(uptake ~ conc, data = CO2, col = viridis(2))
+```
+
+## Question 2
+
+*text of question 2*
+
+Your answer here. 
+
+```{r, include=TRUE}
+# More code!
+
+```
+
+
