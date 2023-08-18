@@ -1,0 +1,43 @@
+---
+title: "Assignment 1.2"
+subtitle: "CPSC 292 Section ## (Instructor last name)"
+author: "Your Name"
+date: "08/30/2023"
+output: html_notebook
+---
+
+## Assignment 1.2 -- Interacting with Filesystems
+
+```{r setup, include=FALSE}
+# Loading required libraries
+# Do not alter this section of code!
+
+```
+
+Write a brief answer explaining the following questions:
+
+### Question 1
+
+*What purposes does a filesystem serve?*
+
+Your answer here.
+
+### Question 2
+
+*What is a file path? What is the difference between an absolute and relative file path?*
+
+Your answer here.
+
+### Question 3
+
+*What is a working directory? Why do computers need to use working directories?*
+
+Your answer here.
+
+### Question 4
+
+*The following is a diagram of folders on my computer. My working directory is in the folder labeled “D.” I want to access the file “6.txt”. What is the file path I must use? (Remember “..” will move you up to a parent directory.)*
+
+Your answer here.
+
+![File system diagram.](filesys1.png)

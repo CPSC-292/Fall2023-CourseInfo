@@ -38,6 +38,7 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+*.DS_Store
 
 # pkgdown site
 docs/
@@ -50,3 +51,10 @@ rsconnect/
 
 # html files
 *.html
+
+# tex files
+*.tex
+*.log
+*.aux
+*.out
+*.synctex.gz

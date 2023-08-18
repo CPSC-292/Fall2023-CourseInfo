@@ -2,13 +2,13 @@
 title: "Assignment 1.1"
 subtitle: "CPSC 292 Section ## (Instructor last name)"
 author: "Your Name"
-date: "00/00/2023"
+date: "08/30/2023"
 output: html_notebook
 ---
 
 ## Assignment 1.1 -- How Computers Work
 
-```{r setup, include=TRUE}
+```{r setup, include=FALSE}
 # Loading required libraries
 # Do not alter this section of code!
 

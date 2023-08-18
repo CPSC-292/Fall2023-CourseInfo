@@ -8,7 +8,7 @@ output: html_notebook
 
 ## Assignment name
 
-```{r setup, include=TRUE}
+```{r setup, include=FALSE}
 # Loading required libraries
 # Do not alter this section of code!
 library(viridis)
