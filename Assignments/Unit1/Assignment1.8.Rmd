@@ -1,0 +1,80 @@
+---
+title: "Assignment 1.8"
+subtitle: "CPSC 292 Section ## (Instructor last name)"
+author: "Your Name"
+date: "09/13/2023"
+output: html_notebook
+---
+
+## Assignment 1.8 -- Matrices
+
+```{r setup, include=FALSE}
+# Do not alter this section of code!
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Write a R code in each chunk (gray space) that provides answers to the following questions. If any questions need direct answers, give them in regular text space (white space).
+
+### Question 1
+
+*Create a 5 by 6 matrix of random numbers using `runif()` to generate data and store it in a variable named my.matrix1. (The function `runif()` pulls pseudorandom numbers from a normal distribution.)*
+
+```{r}
+
+```
+
+### Question 2 
+
+*Create another matrix using a different method with `runif()` to generate data that is 6 by 5 and store it in a variable named my.matrix2.*
+
+```{r}
+
+```
+
+### Question 3
+
+*Using a third method, create another matrix using `runif()` to generate data that is 5 by 10 and store it in a variable named my.matrix3.*
+
+```{r}
+
+```
+
+### Question 4
+
+*Use functions to find each of these values.* 
+
+  a. *What are the dimensions of your three matrices?* 
+  
+```{r}
+
+```
+
+  b. *How many rows and columns do each have?* 
+  
+```{r}
+
+```
+  
+  c. *How many numbers do each contain?*
+  
+```{r}
+
+```
+
+### Question 5
+
+*What are the values at column 5 row 3 for each of your three matrices?*
+
+```{r}
+
+```
+
+### Question 6
+
+*The following line of code does not work. Correct the error so that my.matrix4 is a 5 by 16 matrix.*
+
+```{r}
+my.matrix4 <- cbin(my.matrix2, my.matrix3)
+```
+
+Turn in this RMD file.

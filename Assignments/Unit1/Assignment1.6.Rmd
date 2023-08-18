@@ -1,0 +1,139 @@
+---
+title: "Assignment 1.6"
+subtitle: "CPSC 292 Section ## (Instructor last name)"
+author: "Your Name"
+date: "09/08/2023"
+output: html_notebook
+---
+
+## Assignment 1.6 -- Data Types in R
+
+```{r setup, include=FALSE}
+# Do not alter this section of code!
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Write a R code in each chunk (gray space) that provides answers to the following questions. If any questions need direct answers, give them in regular text space (white space).
+
+### Question 1
+
+*For the following inputs, list all of the data type(s) that would be appropriate to store data in R. Code the example for each.*
+
+  a. *The word fart*
+  
+  Your answer here.
+```{r}
+
+```
+  b. *The condition TRUE*
+  
+  Your answer here.
+```{r}
+
+```
+  c. *The vector < FALSE, TRUE, FALSE, FALSE, TRUE >*
+  
+  Your answer here.
+```{r}
+
+```
+  d. *The vector < 1, 0, 1, 0 >*
+  
+  Your answer here.
+```{r}
+
+```
+  e. *The vector < 2.66, 2.66 >*
+  
+  Your answer here.
+```{r}
+
+```
+  f. *The vector < 2i, 3+3i >*
+  
+  Your answer here.
+```{r}
+
+```
+  g. *The number 8*
+  
+  Your answer here.
+```{r}
+
+```
+  h. *The number 3.6*
+
+  Your answer here.
+```{r}
+
+```
+
+### Question 2
+
+*For the following functions, what types of data do they accept as inputs and what data types do they return as outputs? Code a working example of each.*
+
+ a. `median()`
+  
+  Your answer here.
+```{r}
+
+```
+
+ b. `sd()`
+ 
+  Your answer here.
+```{r}
+
+```
+ 
+ c. `any()`
+   
+  Your answer here.
+```{r}
+
+```
+ 
+ d. `cut()`
+ 
+  Your answer here.
+```{r}
+
+```
+ 
+ e. `order()`
+  
+  Your answer here.
+```{r}
+
+```
+
+### Question 3
+
+*Run the function `is.character()` on the coded example for each answer in question 1 (give each example
+its own line). What does the output mean?*
+
+```{r}
+
+```
+
+Your answer here. 
+
+### Question 4
+
+*Use the function `runif()` to produce 1000 random numbers between 0 and 1.*
+
+```{r}
+
+```
+
+*How could you change the range from 10 to 1000 (instead of 0 to 1)? Write an explanation here describing the change and then put the adjusted code.*
+
+Your answer here.
+
+```{r}
+
+```
+
+
+
+Turn in this RMD file.
