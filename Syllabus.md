@@ -14,7 +14,7 @@
     - Section 03: TBD
   - __Course Info Repository:__ https://github.com/CPSC-292/Fall2023-CourseInfo/
   - __Course Discussion:__ https://github.com/orgs/CPSC-292/discussions
-  - __Course Zulip:__ Link will be sent through Canvas
+  - __Course Slack:__ Link will be sent through Canvas
 
 
 __Course description:__ Students will learn the fundamentals of data processing and exploratory data analysis using a statistical computing language such as R. Emphasis will be placed on data cleaning, data visualization, and simple statistical analyses. (Offered every year.) 3 credits.
