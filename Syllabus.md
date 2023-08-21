@@ -4,16 +4,17 @@
 
 ### Basic Course Information
 
- - __Class numbers:__ 1281 (Section 01), 1282 (Section 02), & 1283 (Section 03)
+ - __Class numbers:__ 1201 (Section 01), 1203 (Section 02), & 3773 (Section 03)
  - __Units:__ 3 units 
- - __Lecture Time:__ Section 01: MWF, 11:00 -- 11:50 am; Section 02: 12:00 -- 12:50 pm 
+ - __Lecture Time:__ Section 01: MWF, 11:00 -- 11:50 am; Section 02: 12:00 -- 12:50 pm; Section 03: 9:00 -- 9:50 am 
  - __Lecture Location:__ N214 Swenson Hall 
  - __Course Canvas Sites:__ 
-    - Section 01:
-    - Section 02:
-    - Section 03: 
-  - __Course Info Repository:__ 
-  - __Course Zulip Channel:__ Link will be posted in a Canvas Announcement
+    - Section 01: https://canvas.chapman.edu/courses/55347
+    - Section 02: https://canvas.chapman.edu/courses/55354
+    - Section 03: TBD
+  - __Course Info Repository:__ https://github.com/CPSC-292/Fall2023-CourseInfo/
+  - __Course Discussion:__ https://github.com/orgs/CPSC-292/discussions
+  - __Course Slack:__ Link will be sent through Canvas
 
 
 __Course description:__ Students will learn the fundamentals of data processing and exploratory data analysis using a statistical computing language such as R. Emphasis will be placed on data cleaning, data visualization, and simple statistical analyses. (Offered every year.) 3 credits.
@@ -27,7 +28,7 @@ __Section 01 & 02 Instructor:__ Lindsay Waldrop, Ph.D. (she/her/hers)
 
  - _Email address:_ waldrop@chapman.edu
  - _Office Location:_ 268 Keck 
- - _Office Hours:_ TBA
+ - _Office Hours:_ Wednesdays 3:30 - 5:00; Thursdays 11:30 - 1:00; by appointment.
 
 __Section 03 Instructor:__ Katherine Hansen (pronouns)
 
@@ -104,7 +105,7 @@ There will be deadlines for completion of work typically one week after the mate
 
 However, life happens, and you may not want to discuss with your instructor exactly what is going on to catch a break. You are allowed to invoke the __Life-Happens Clause__ on any item (except those during the final exam period), no excuse required. Simply request a new deadline by email or a Zulip message within 48 hours of when item was due. _You have to provide the new deadline in the message!_ You may invoke the clause as many times as needed during the semester. If it becomes habitual, consider contacting the instructor so we can work out a better timetable for submitting assignments. 
 
-\subsubsection*{Attendance and Participation}
+### Attendance and Participation
 
 Learning depends on engagement, and engagement depends on both the relationship between students and instructors and the general learning environment. Engagement is a relationship, and like any other relationship, depends on two people: the instructor and the student. Instructors will do their part to come to class prepared with interesting material and a science-based lecture style that includes active learning techniques. You are expected to come to class prepared by completing any assignments and willing to participate in your own learning. Furthermore, you are expected to help cultivate a positive and welcoming learning environment for you and your fellow students. In order to do this, class attendance _and participation_ is mandatory throughout the semester. 
 
