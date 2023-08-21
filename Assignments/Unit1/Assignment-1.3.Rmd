@@ -9,12 +9,6 @@ output: html_notebook
 ## Assignment 1.3 -- Create a Course Directory
 
 
-```{r setup, include=FALSE}
-# Loading required libraries
-# Do not alter this section of code!
-
-```
-
 Create a directory using your file system manager GUI for all the material you’ll use in the course. Take a screen shot of the directory. Determine the absolute file path for this directory, and annotate the screen shot with the path. Upload the annotated screen shot. 
 
 

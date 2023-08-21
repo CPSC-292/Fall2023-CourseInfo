@@ -8,12 +8,6 @@ output: html_notebook
 
 ## Assignment 1.2 -- Interacting with Filesystems
 
-```{r setup, include=FALSE}
-# Loading required libraries
-# Do not alter this section of code!
-
-```
-
 Write a brief answer explaining the following questions:
 
 ### Question 1
