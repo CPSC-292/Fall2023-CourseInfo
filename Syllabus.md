@@ -105,7 +105,7 @@ There will be deadlines for completion of work typically one week after the mate
 
 However, life happens, and you may not want to discuss with your instructor exactly what is going on to catch a break. You are allowed to invoke the __Life-Happens Clause__ on any item (except those during the final exam period), no excuse required. Simply request a new deadline by email or a Zulip message within 48 hours of when item was due. _You have to provide the new deadline in the message!_ You may invoke the clause as many times as needed during the semester. If it becomes habitual, consider contacting the instructor so we can work out a better timetable for submitting assignments. 
 
-\subsubsection*{Attendance and Participation}
+### Attendance and Participation
 
 Learning depends on engagement, and engagement depends on both the relationship between students and instructors and the general learning environment. Engagement is a relationship, and like any other relationship, depends on two people: the instructor and the student. Instructors will do their part to come to class prepared with interesting material and a science-based lecture style that includes active learning techniques. You are expected to come to class prepared by completing any assignments and willing to participate in your own learning. Furthermore, you are expected to help cultivate a positive and welcoming learning environment for you and your fellow students. In order to do this, class attendance _and participation_ is mandatory throughout the semester. 
 
