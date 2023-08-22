@@ -103,7 +103,7 @@ Failure to complete 100% of assignments will result in some Skill Checks or Proj
 
 There will be deadlines for completion of work typically one week after the material needed to complete the item's learning objective is covered in class and the item is assigned. After this deadline, items will be scored as not complete (0). There is no "late" work accepted.
 
-However, life happens, and you may not want to discuss with your instructor exactly what is going on to catch a break. You are allowed to invoke the __Life-Happens Clause__ on any item (except those during the final exam period), no excuse required. Simply request a new deadline by email or a Zulip message within 48 hours of when item was due. _You have to provide the new deadline in the message!_ You may invoke the clause as many times as needed during the semester. If it becomes habitual, consider contacting the instructor so we can work out a better timetable for submitting assignments. 
+However, life happens, and you may not want to discuss with your instructor exactly what is going on to catch a break. You are allowed to invoke the __Life-Happens Clause__ on any item (except those during the final exam period), no excuse required. Simply request a new deadline by email or a Slack message within 48 hours of when item was due. _You have to provide the new deadline in the message!_ You may invoke the clause as many times as needed during the semester. If it becomes habitual, consider contacting the instructor so we can work out a better timetable for submitting assignments. 
 
 ### Attendance and Participation
 
