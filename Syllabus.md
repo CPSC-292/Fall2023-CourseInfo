@@ -11,7 +11,7 @@
  - __Course Canvas Sites:__ 
     - Section 01: https://canvas.chapman.edu/courses/55347
     - Section 02: https://canvas.chapman.edu/courses/55354
-    - Section 03: TBD
+    - Section 03: https://canvas.chapman.edu/courses/56927
   - __Course Info Repository:__ https://github.com/CPSC-292/Fall2023-CourseInfo/
   - __Course Discussion:__ https://github.com/orgs/CPSC-292/discussions
   - __Course Slack:__ Link will be sent through Canvas
