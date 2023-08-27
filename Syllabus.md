@@ -30,7 +30,7 @@ __Section 01 & 02 Instructor:__ Lindsay Waldrop, Ph.D. (she/her/hers)
  - _Office Location:_ 268 Keck 
  - _Office Hours:_ Wednesdays 3:30 - 5:00; Thursdays 11:30 - 1:00; by appointment.
 
-__Section 03 Instructor:__ Katherine Hansen (pronouns)
+__Section 03 Instructor:__ Katherine Hansen (she/her/hers)
 
  - _Email address:_ kathhansen@chapman.edu
  - _Office Location:_ Swenson N205 
