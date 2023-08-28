@@ -6,6 +6,11 @@ date: "09/13/2023"
 output: html_notebook
 ---
 
+### Collaboration team: 
+
+Record who you've worked on the assignment with here. 
+
+
 ## Assignment 1.8 -- Matrices
 
 ```{r setup, include=FALSE}
