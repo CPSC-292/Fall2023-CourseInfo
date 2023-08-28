@@ -33,8 +33,8 @@ __Section 01 & 02 Instructor:__ Lindsay Waldrop, Ph.D. (she/her/hers)
 __Section 03 Instructor:__ Katherine Hansen (she/her/hers)
 
  - _Email address:_ kathhansen@chapman.edu
- - _Office Location:_ Swenson N205 
- - _Office Hours:_ TBA
+ - _Office Location:_ Swenson N206 
+ - _Office Hours:_ MW 10 - 11:45 AM
 
 
 ### Course Materials
