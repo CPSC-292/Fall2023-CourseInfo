@@ -11,7 +11,7 @@
  - __Course Canvas Sites:__ 
     - Section 01: https://canvas.chapman.edu/courses/55347
     - Section 02: https://canvas.chapman.edu/courses/55354
-    - Section 03: TBD
+    - Section 03: https://canvas.chapman.edu/courses/56927
   - __Course Info Repository:__ https://github.com/CPSC-292/Fall2023-CourseInfo/
   - __Course Discussion:__ https://github.com/orgs/CPSC-292/discussions
   - __Course Slack:__ Link will be sent through Canvas
@@ -30,11 +30,11 @@ __Section 01 & 02 Instructor:__ Lindsay Waldrop, Ph.D. (she/her/hers)
  - _Office Location:_ 268 Keck 
  - _Office Hours:_ Wednesdays 3:30 - 5:00; Thursdays 11:30 - 1:00; by appointment.
 
-__Section 03 Instructor:__ Katherine Hansen (pronouns)
+__Section 03 Instructor:__ Katherine Hansen (she/her/hers)
 
- - _Email address:_ kahansen@chapman.edu
- - _Office Location:_ Swenson N205 
- - _Office Hours:_ TBA
+ - _Email address:_ kathhansen@chapman.edu
+ - _Office Location:_ Swenson N206 
+ - _Office Hours:_ MW 10 - 11:45 AM
 
 
 ### Course Materials
@@ -103,7 +103,7 @@ Failure to complete 100% of assignments will result in some Skill Checks or Proj
 
 There will be deadlines for completion of work typically one week after the material needed to complete the item's learning objective is covered in class and the item is assigned. After this deadline, items will be scored as not complete (0). There is no "late" work accepted.
 
-However, life happens, and you may not want to discuss with your instructor exactly what is going on to catch a break. You are allowed to invoke the __Life-Happens Clause__ on any item (except those during the final exam period), no excuse required. Simply request a new deadline by email or a Zulip message within 48 hours of when item was due. _You have to provide the new deadline in the message!_ You may invoke the clause as many times as needed during the semester. If it becomes habitual, consider contacting the instructor so we can work out a better timetable for submitting assignments. 
+However, life happens, and you may not want to discuss with your instructor exactly what is going on to catch a break. You are allowed to invoke the __Life-Happens Clause__ on any item (except those during the final exam period), no excuse required. Simply request a new deadline by email or a Slack message within 48 hours of when item was due. _You have to provide the new deadline in the message!_ You may invoke the clause as many times as needed during the semester. If it becomes habitual, consider contacting the instructor so we can work out a better timetable for submitting assignments. 
 
 ### Attendance and Participation
 
@@ -127,7 +127,7 @@ __Electronic Devices__ (phones, computers, etc): Please refrain from inappropria
 
 __Group Work__: Group work is encouraged on all assignments and during class, except those explicitly stated to be _individual evaluations_. You are free to assume that an assignment is meant to be worked on together unless otherwise directed. If you work in groups on an assignment, simply list the members of your group on the top of the assignment. 
 
-__Communications__: The instructors prefer Zulip over email, please send a direct message rather than an email. You can expect replies to emails and slacks within regular working hours (9 am to 5 pm, M-F). We will try our best to respond within one working day. Please check the syllabus before asking a question about the course. Detailed questions are best asked during office hours, you will get a better and more thorough answer. If your question takes more than 3 mins to respond to, you will be asked to come to office hours. Please treat email as formal communication; if you are unsure of how to properly format an email to your professor, please ask. Zuliip is far more informal; memes, tiktoks, and animated gifs are encouraged. 
+__Communications__: The instructors prefer Slack over email, please send a direct message rather than an email. You can expect replies to emails and slacks within regular working hours (9 am to 5 pm, M-F). We will try our best to respond within one working day. Please check the syllabus before asking a question about the course. Detailed questions are best asked during office hours, you will get a better and more thorough answer. If your question takes more than 3 mins to respond to, you will be asked to come to office hours. Please treat email as formal communication; if you are unsure of how to properly format an email to your professor, please ask. Slack is far more informal; memes, tiktoks, and animated gifs are encouraged. 
 
 ### Chapman University Policies
 
