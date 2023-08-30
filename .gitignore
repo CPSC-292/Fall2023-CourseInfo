@@ -58,3 +58,10 @@ rsconnect/
 *.aux
 *.out
 *.synctex.gz
+
+# Other files
+*.png
+*.key
+*.mov
+*.mp4
+*effort.pdf
