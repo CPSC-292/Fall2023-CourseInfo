@@ -1,0 +1,55 @@
+---
+title: "L1_8 Section 3 Notes"
+date: "09/15/2023"
+output:
+  html_document:
+    df_print: paged
+---
+
+## Create a list in which each member contains one of each data types you’ve learned so far in the course!  
+```{r}
+# numeric
+# integer
+# logical
+# character
+# complex
+
+my_list <- list(3.4, 12L, TRUE, F, "CPSC292", "1", 2i)
+class(my_list)
+
+
+
+```
+
+
+## In the ToothGrowth data set, how can you print out all the measured tooth lengths from their study? How can you find the mean and standard deviation of these lengths?
+```{r}
+
+data("ToothGrowth")
+force(ToothGrowth)
+
+View(ToothGrowth)
+
+summary(ToothGrowth) # good way to get summary statistics
+
+ToothGrowth[,"len"]
+
+mean(ToothGrowth$len)
+sd(ToothGrowth$len)
+
+```
+
+## In the ToothGrowth data set, how can you print out all the measured tooth lengths from their study that were only given a dose of 1.0? How can you find the mean and standard deviation of these lengths? Can you find the mean of the tooth lengths for animals given an OJ dose of 1.0?
+
+```{r}
+
+ToothGrowth[,"len"]
+
+mean(ToothGrowth[ToothGrowth$dose == 1.0, "len"])
+sd(ToothGrowth[ToothGrowth$dose == 1.0, "len"])
+
+
+
+ToothGrowth$len[ToothGrowth$dose == 1.0 & ToothGrowth$supp == "OJ"]
+```
+
