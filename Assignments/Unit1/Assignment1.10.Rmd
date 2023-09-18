@@ -64,7 +64,7 @@ Write a R code in each chunk (gray space) that provides answers to the following
 
 ### Question 4
 
-*The followiing line of code does not work. Correct the error so that the code returns the mean weight of chicks fed soybean or linseed feed.*
+*The following line of code does not work. Correct the error so that the code returns the mean weight of chicks fed soybean or linseed feed.*
 ```{r}
 mean(chickwts$weight[chickwts$feed == "soybean" | chickwts$feed == "linseed",])
 ```
