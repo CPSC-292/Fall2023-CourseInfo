@@ -1,0 +1,51 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+1. Create a data frame that contains:
+a column of class character describing something in your current surroundings
+
+a column of class factor describing the color of those items
+
+```{r}
+df <- data.frame(items = c("Desk", "Chair", "Wall"), colors = factor(c("White", "Red", "White")))
+df
+```
+```{r}
+df <- data.frame(items = c("Desk", "Chair", "Wall"), colors = factor(c("White", NA, "White")))
+# when sum != 0, we have a missing value
+sum(is.na(df))
+df <- na.omit(df)
+df
+```
+
+
+
+a. a logical vector into a numeric vector
+b. a numeric vector into a character vector
+c. two vectors into a data frame
+d. a list into a vector
+```{r}
+
+l.vec <- c(T,T,F)
+l.vec <- as.numeric(l.vec)
+l.vec <- as.character(l.vec)
+class(l.vec)
+
+vec2 <- c(1,2,3)
+as.data.frame(c(l.vec,vec2))
+
+my.list <- list(col1 = l.vec, col2 = vec2)
+class(my.list)
+my.df <- as.data.frame(my.list)
+my.df
+
+l <- list(1,2,3)
+l <- unlist(l)
+
+class(as.vector(l))
+class(l)
+
+```
+
