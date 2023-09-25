@@ -42,6 +42,6 @@ hop
 Practice splitting on these lines:
 ```{r}
 data("Indometh")
-mean(Indometh$conc[Indometh$time==8.00])
+mean(Indometh$conc[Indometh$Time==8.00])
 ```
 

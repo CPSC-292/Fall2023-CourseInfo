@@ -79,7 +79,7 @@ data("ChickWeight")
   
 ```{r}
 chick1.dat <- subset(ChickWeight, (ChickWeight$Diet==1)
-)
+
 ```
   
   Your answer here.
