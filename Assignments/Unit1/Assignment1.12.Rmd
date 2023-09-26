@@ -74,7 +74,7 @@ Write a R code in each chunk (gray space) that provides answers to the following
 
 ```
 
-  d. *Now, bind all three factored vectors together into a data frame named fruit.info. Be sure each column has a good name!*
+  e. *Now, bind all three factored vectors together into a data frame named fruit.info. Be sure each column has a good name!*
   
 ```{r}
 
