@@ -62,7 +62,7 @@ Write a R code in each chunk (gray space) that provides answers to the following
 
 ```
 
-### Question 4
+### Question 3
 
 *The following line of code does not work. Correct the error so that the code returns the mean weight of chicks fed soybean or linseed feed.*
 ```{r}
