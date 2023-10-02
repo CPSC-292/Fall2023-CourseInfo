@@ -48,7 +48,7 @@ Answer here
 
 Answer here
 
-*b. Are the data in each column the appropriate data class? If not, how can you fix that using the \verb+read.table()+ function?*
+*b. Are the data in each column the appropriate data class? If not, how can you fix that using the read.table() function?*
 
 Answer here
 
