@@ -14,6 +14,28 @@ output: html_notebook
 library(ggplot2)
 ```
 
+### Agreement 
+
+This Skill Check is meant to be an assessment of your ability to creatively execute several learning objectives at once by visualizing information in specific styles and provide code for your fellow classmates. 
+
+You will be assessed together with your group members for this Skill Check. Part of how you are assessed is your ability to work together. 
+
+You may use any resource, either online or physical, to complete the work. This includes: 
+
+ - Any help forum or website (e.g. StackOverflow) questions that already exist.
+ - Any notes, code, slides, papers, or previous feedback from the instructor.
+ - Any books, online or physical.
+ - Scholarly works such as papers. 
+ 
+It DOES NOT include:
+
+ - Help from generative artificial intelligence such as ChatGPT.
+ - Help from homework websites such as Course Hero or Chegg.
+ 
+If you use work outside normal course resources (textbooks, lecture notes, slides, code, or instructor feedback), you are expected to cite the work by providing a URL to the source near the place that the code was used.
+
+### Skill Check Instructions
+
 For the next two class periods, you will work in a small group to prepare some sample code for using each of the following groups of geometric objects for your classmates: 
 
  1. `geom_point()`, `geom_line()`, `geom_qq_line()`
@@ -29,4 +51,6 @@ Be ready to give a short presentation on each graph type. Let us know the follow
  * what data are appropriate for use (categorical, continuous, etc)
  * what does the plot tell us about the data (generally)
  
-Before class, you'll be responsible for turning in an R Markdown file with the example code as part of your Skill Check 2.1. 
+You'll be responsible for turning in an R Markdown file with the example code as part of your Skill Check 2.1. 
+
+Due date for RMD file: 10/9/2023 before class starts
