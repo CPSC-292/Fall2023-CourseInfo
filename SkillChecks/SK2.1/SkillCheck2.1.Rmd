@@ -1,0 +1,32 @@
+---
+title: "Skill Check 2.1"
+subtitle: "CPSC 292 Section -- (Instructor last name)"
+author: "Names of your group members"
+date: "10/06/2023"
+output: html_notebook
+---
+
+## Skill Check 2.1 -- Geometric Object Types
+
+```{r setup, include=FALSE}
+# Loading required libraries
+# Do not alter this section of code!
+library(ggplot2)
+```
+
+For the next two class periods, you will work in a small group to prepare some sample code for using each of the following groups of geometric objects for your classmates: 
+
+ 1. `geom_point()`, `geom_line()`, `geom_qq_line()`
+ 2. `geom_bar()`, `geom_boxplot()`, `geom_violin()`
+ 3. `geom_histogram()`, `geom_density()`, `geom_dotplot()` 
+ 4. `geom_map()`
+ 5. `geom_raster()`, `geom_tile()`, `geom_contour()`
+ 6. Other geoms: [ggplot extension gallery](https://exts.ggplot2.tidyverse.org/gallery/)
+ 
+Be ready to give a short presentation on each graph type. Let us know the following things: 
+
+ * what does the plot look like (present an example of each)
+ * what data are appropriate for use (categorical, continuous, etc)
+ * what does the plot tell us about the data (generally)
+ 
+Before class, you'll be responsible for turning in an R Markdown file with the example code as part of your Skill Check 2.1. 
