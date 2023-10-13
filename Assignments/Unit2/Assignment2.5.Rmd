@@ -2,7 +2,7 @@
 title: "Assignment 2.5"
 subtitle: "CPSC 292 Section ## (Instructor last name)"
 author: "Your Name"
-date: "10/16/2023"
+date: "10/13/2023"
 output: html_notebook
 ---
 
@@ -28,16 +28,19 @@ Answer here.
 
 ### Question 2 
 
-*On slide 29 of Lecture 2.6, there is a list of fast-processing features that can be used to distinguish data groups from each other. In three separate scatter plots graphing Sepal.Length versus Sepal.Width in the iris data set, create a demonstration of one fast-processing feature that distinguishes the different species from one another. You should have three separate plots, each showing a different fast-processing difference.*
+*On slide 33 of Lecture 2.6, there is a list of fast-processing features that can be used to distinguish data groups from each other. In three separate scatter plots graphing Sepal.Length versus Sepal.Width in the iris data set, create a demonstration of one fast-processing feature that distinguishes the different species from one another. You should have three separate plots, each showing a different fast-processing difference.*
 
+Fast-processing example 1: 
 ```{r}
 
 ```
 
+Fast-processing example 2: 
 ```{r}
 
 ```
 
+Fast-processing example 3: 
 ```{r}
 
 ```
