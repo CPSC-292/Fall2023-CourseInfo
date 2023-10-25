@@ -68,3 +68,6 @@ rsconnect/
 
 # data directories
 data/
+
+# assignmnet keys
+*key.Rmd
