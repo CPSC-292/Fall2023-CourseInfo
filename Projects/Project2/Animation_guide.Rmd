@@ -59,3 +59,4 @@ That's it! The file "animation.gif" should be in the main directory.
 ```{r}
 gif_animated
 ```
+Source: https://www.nagraj.net/notes/gifs-in-r/ was helpful in setting up this code using the magick package.
