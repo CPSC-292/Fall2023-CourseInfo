@@ -53,6 +53,8 @@ plot_list <- list.files("irisplots", full.names = TRUE)
 gif_files <- lapply(plot_list, image_read)
 gif_joined <- image_join(gif_files)
 gif_animated <- image_animate(gif_joined, fps = 1)
+image_write(image = gif_animated,
+            path = "irisplot_anim.gif")
 ```
 
 That's it! The file "animation.gif" should be in the main directory. 
