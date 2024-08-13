@@ -1,9 +1,11 @@
 ---
 title: "Assignment name"
-subtitle: "CPSC 292 Section -- (Instructor last name)"
 author: "Your Name"
 date: "00/00/2023"
-output: html_notebook
+output:
+  html_document:
+    df_print: paged
+subtitle: "CPSC 292 Section -- (Instructor last name)"
 ---
 
 ## Assignment name
